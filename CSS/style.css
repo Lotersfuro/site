@@ -1,0 +1,41 @@
+#s1{
+    width: 900px;
+    height: 850px;
+    border: 3px solid red;
+    margin: auto;
+    text-align: center; 
+}
+#s2{
+    width: 900px;
+    height: 250px;  
+    background: #FFC0CB; 
+}
+#s3{
+    width: 900px;
+    height: 50px;
+    background: #4169E1; 
+}
+#s4{
+    width: 300px;
+    height: 500px;
+    background: #228B22;
+    float: left;
+}
+#s5{
+    width: 300px;
+    height: 500px;
+    background: #FFFF00;
+    float: left;
+}
+#s6{
+    width: 300px;
+    height: 500px;
+    background: #BA55D3;
+    float: left;
+}
+#s7{
+    width: 900px;
+    height: 50px;
+    background: #4169E1;
+    float: left;
+}
